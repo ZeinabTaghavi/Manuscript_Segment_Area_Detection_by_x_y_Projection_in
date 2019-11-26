@@ -6,7 +6,7 @@ This code will find text areas in a handwriting image.
 
 __Algorithm based on__: Projection (x_y_Projection)
 
-__Time__: 2.64
+__Time__: 2.64s (per image)
 
 __Process__:
 
