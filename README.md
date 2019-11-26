@@ -1,0 +1,1 @@
+# find_segment_area_by_x_y_projection_in_-handwriting_documents
